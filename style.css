@@ -19,7 +19,7 @@
 }
 .business-card-top-section {
     height: 7rem;
-    background-image: url("/blue-background.jpg");
+    background-image: url("blue-background.jpg");
     background-size: cover;
     display: flex;
     justify-content: center;
